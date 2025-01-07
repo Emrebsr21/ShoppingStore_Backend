@@ -1,0 +1,6 @@
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ServerConnection\bin\Debug\ServerConnection.dll
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ServerConnection\bin\Debug\ServerConnection.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ServerConnection\obj\Debug\ServerConnection.csproj.AssemblyReference.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ServerConnection\obj\Debug\ServerConnection.csproj.CoreCompileInputs.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ServerConnection\obj\Debug\ServerConnection.dll
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ServerConnection\obj\Debug\ServerConnection.pdb

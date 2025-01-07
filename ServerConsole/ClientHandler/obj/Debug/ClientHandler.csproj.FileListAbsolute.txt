@@ -1,0 +1,6 @@
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ClientHandler\bin\Debug\ClientHandler.dll
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ClientHandler\bin\Debug\ClientHandler.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ClientHandler\obj\Debug\ClientHandler.csproj.AssemblyReference.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ClientHandler\obj\Debug\ClientHandler.csproj.CoreCompileInputs.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ClientHandler\obj\Debug\ClientHandler.dll
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ClientHandler\obj\Debug\ClientHandler.pdb

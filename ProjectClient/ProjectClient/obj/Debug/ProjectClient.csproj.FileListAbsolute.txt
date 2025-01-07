@@ -1,0 +1,14 @@
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ShoppingClient.LoginForm.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ShoppingClient.OperationalForm.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\bin\Debug\ServerConnection.dll
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\bin\Debug\ServerConnection.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ProjectC.B5C9BDEA.Up2Date
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb

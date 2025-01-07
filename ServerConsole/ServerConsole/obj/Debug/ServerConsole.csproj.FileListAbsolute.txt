@@ -1,0 +1,10 @@
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\obj\Debug\ServerConsole.csproj.AssemblyReference.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\obj\Debug\ServerConsole.csproj.CoreCompileInputs.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\bin\Debug\ServerConsole.exe.config
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\bin\Debug\ServerConsole.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\bin\Debug\ServerConsole.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\bin\Debug\ClientHandler.dll
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\bin\Debug\ClientHandler.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\obj\Debug\ServerCo.458B81E2.Up2Date
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\obj\Debug\ServerConsole.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\ServerConsole\ServerConsole\obj\Debug\ServerConsole.pdb
